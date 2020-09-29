@@ -13,4 +13,10 @@ Worked on HTML and HTML5 on Freecodecamp.org and completed all assignments in it
 Worked on CSS today, completed 50% of the course, I will complete CSS tomorrow and build a small project with the knowledge that I have gained.
 
 ![Css50%](progress_images/css50.png)
+	
+	
+### R1D3
+Worked on CSS today and completed all the topics, the most valuable thing I learnt today was css variables.
 
+![CSS basics Completed](progress_images/cssComplete.png)
+	
