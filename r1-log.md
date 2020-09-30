@@ -20,3 +20,9 @@ Worked on CSS today and completed all the topics, the most valuable thing I lear
 
 ![CSS basics Completed](progress_images/cssComplete.png)
 	
+	
+### R1D4
+Worked on Visual Design today, completed 60% of it, I learnt about complementary color scheme and Split complementary color scheme
+
+![Visual Design Basics](progress_images/60percentVisualDesign.png)
+		
