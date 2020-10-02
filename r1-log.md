@@ -25,4 +25,9 @@ Worked on CSS today and completed all the topics, the most valuable thing I lear
 Worked on Visual Design today, completed 60% of it, I learnt about complementary color scheme and Split complementary color scheme
 
 ![Visual Design Basics](progress_images/60percentVisualDesign.png)
-		
+
+
+### R1D5
+Worked on Visual Design yesterday and completed it. I learnt about animations, keyframes, transforms,bezier curve 
+
+![Visual Design Basics Completed](visualDesign100.png)		
