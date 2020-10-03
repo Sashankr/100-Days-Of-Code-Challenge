@@ -30,8 +30,15 @@ Worked on Visual Design today, completed 60% of it, I learnt about complementary
 ### R1D5
 Worked on Visual Design yesterday and completed it. I learnt about animations, keyframes, transforms,bezier curve 
 
-![Visual Design Basics Completed](visualDesign100.png)	
+![Visual Design Basics Completed](progress_images/visualDesign100.png)	
 
 ### R1D6
 Worked on a coursera course for learning Bootstrap. Started building Cat App v2.0 design, I will implement the stuff I learnt from applied visual design course. 
 [Figma Link](https://www.figma.com/file/IGUGLMYrfCsSYICva4z5Ti/CAT-APP-2.0?node-id=0%3A1)
+
+
+### R1D7
+Completed building Cat App V2.0. Now moving on to Applied Accecibility. 
+![Cat App 2.0 Completed](progress_images/catApp2.0.png)	
+
+
