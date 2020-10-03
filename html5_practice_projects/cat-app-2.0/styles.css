@@ -1,29 +1,71 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --division-margin-bottom: 20px;
+  --standard-padding-bottom: 20px;
+}
 
 header {
-  background-color: #36FF83;
-  height: 120px;
+  --backround-color: #e6aace;
+  background-color: var(--backround-color, pink);
+  padding: 20px 0;
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
   letter-spacing: 3px;
   float: left;
 }
 
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+}
+
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
+  color: #344966;
 }
 
 ul li {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   display: inline-block;
+  padding: 10px;
+  background-color: #344966;
+  margin-right: 50px;
 }
 
+ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+ul li:hover {
+  transform: scale(1.1);
+  transition: 0.6s ease;
+  box-shadow: 10px 10px 4px 0 rgba(0, 0, 0, 0.3);
+}
 
 nav {
   float: right;
+  margin-top: 10px;
+}
+
+.clearfix {
+  margin-bottom: 10px;
 }
 
 .clearfix::after {
@@ -37,7 +79,101 @@ nav {
   margin: 0 auto;
 }
 
+#content {
+  background-color: #0d1821;
+  padding-bottom: var(--standard-padding-bottom);
+}
+
 #one {
-  height: 100vh;
-  background-color: #2B2B2B;
+  padding: 30px 0 10px;
+  animation-name: fade;
+  animation-duration: 3s;
+  opacity: 0;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease;
+}
+
+@keyframes fade {
+  100% {
+    opacity: 1;
+  }
+}
+
+#image_container {
+  float: left;
+  width: 51%;
+}
+
+.card {
+  float: right;
+  width: 45%;
+  background-color: #ffffff;
+  padding: 10px;
+  height: 250px;
+}
+
+p.more_info {
+  text-align: right;
+  color: #e6aace;
+}
+
+p.more_info a {
+  text-decoration: none;
+}
+
+#two,
+#three,
+#four {
+  padding: 20px;
+  background-color: #ffffff;
+  margin-bottom: var(--division-margin-bottom);
+}
+
+label {
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+  padding-bottom: 10px;
+  display: block;
+  font-size: 14px;
+}
+
+form input {
+  display: block;
+  padding: 8px 25px;
+  background-color: #c4c4c4;
+  outline: none;
+  border: transparent;
+  font-family: "Roboto", sans-serif;
+  font-weight: 200;
+}
+form input:focus {
+  outline: 1px solid #344966;
+}
+
+button#submit_btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  padding: 10px 25px;
+  border-radius: unset;
+  outline: none;
+  background-color: #d768ff;
+  color: #ffffff;
+  border-style: unset;
+  cursor: pointer;
+}
+
+button#submit_btn:hover {
+  transform: scale(1.1);
+  transition: 0.6s ease;
+  box-shadow: 10px 10px 4px 0 rgba(0, 0, 0, 0.3);
+}
+
+footer {
+  background-color: #000000;
+  padding: 10px 0;
+}
+
+footer p {
+  color: #ffffff;
+  text-align: center;
 }
