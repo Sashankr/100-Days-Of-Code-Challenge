@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Projects
-[CatApp Webpage](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-photo-app/)
+[CatApp Webpage](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-photo-app/)  
 [CatApp 2.0 with CSS](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-app-2.0)
 
 
