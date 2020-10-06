@@ -41,4 +41,17 @@ Worked on a coursera course for learning Bootstrap. Started building Cat App v2.
 Completed building Cat App V2.0. Now moving on to Applied Accecibility. 
 ![Cat App 2.0 Completed](progress_images/catApp2.0.png)	
 
+### R1D8
+Completed Applied Accecibility and Basic Principles of Responsive Web Design, now moving on to FlexBox and Grid. 
+![Applied Accessibility](progress_images/appliedAccessibility.png)
+
+![Responsive Web Design](progress_images/ResponsiveWebDesign100.png)	
+
+### R1D9
+For the whole day I worked on creating a design for an internship take home assignment, I built the UI and now I have to learn how to use rxjs to use observables and subjects to add products to the cart. 
+![Applied Accessibility](progress_images/shopCart.png)
+
+
+
+
 
