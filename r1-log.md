@@ -49,9 +49,16 @@ Completed Applied Accecibility and Basic Principles of Responsive Web Design, no
 
 ### R1D9
 For the whole day I worked on creating a design for an internship take home assignment, I built the UI and now I have to learn how to use rxjs to use observables and subjects to add products to the cart. 
-![Applied Accessibility](progress_images/shopCart.png)
+![Intership Take Home Assignment](progress_images/shopCart.png)
 
 
 
+### R1D10
+Worked on my intership assignment but I could not complete it, I need to work on my basics now.
+
+
+### R1D11
+For the whole day I worked on creating a design for an internship take home assignment, I built the UI and now I have to learn how to use rxjs to use observables and subjects to add products to the cart. 
+![FlexBox 50% complete](progress_images/flexbox50.png)
 
 
