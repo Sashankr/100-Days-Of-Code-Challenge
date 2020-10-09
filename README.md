@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge
 
+## Daily Log
+I write about the things that I have worked on, in this log.
+[Daily Log of 100 Days of Code (Round 1)](r1-log.md)
+
 ## Projects
 [CatApp Webpage](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-photo-app/)  
 [CatApp 2.0 with CSS](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-app-2.0)
