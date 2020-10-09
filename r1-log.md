@@ -53,12 +53,16 @@ For the whole day I worked on creating a design for an internship take home assi
 
 
 
-### R1D10
+### R1D10, 11
 Worked on my intership assignment but I could not complete it, I need to work on my basics now.
 
 
-### R1D11
+### R1D12
 For the whole day I worked on creating a design for an internship take home assignment, I built the UI and now I have to learn how to use rxjs to use observables and subjects to add products to the cart. 
 ![FlexBox 50% complete](progress_images/flexbox50.png)
 
+### R1D13
+I completed Flexbox and Grid concepts. I learnt a lot about layout design and arrangement with help of these concepts, now I need to build 5 projects to internalize these concepts and get the Responsive Web Design Certificate.
+![Flexbox](Flexbox100.png)
+![Grid](progress_images/Grid100.png)
 
