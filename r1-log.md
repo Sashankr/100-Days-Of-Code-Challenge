@@ -71,4 +71,4 @@ I completed Flexbox and Grid concepts. I learnt a lot about layout design and ar
 Completed my first project by building a tribute page for free code camp's Responsive Web Design course.
 I need to complete 4 more projects to get the Responsive Web Design Certificate.
 ![Hans Zimmer Tribute Page](progress_images/HansZimmer-Tribute-Page.png)
-![20% Completed of Responsive Design Projects](progress_images/20%ResponsiveDesignProject.png)
+![20% Completed of Responsive Design Projects](progress_images/20PercResponsiveDesignProject.png)
