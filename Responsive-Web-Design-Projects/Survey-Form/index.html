@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Survey Form</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1 id="title">JOB APPLICATION FORM</h1>
+    <p id="description">Please provide us your details so that we can find a role that is best suited for you</p>
+
+    <form id="survey-form">
+      <label for="name" id="name-label">Name</label>
+      <input type="text" id="name" placeholder="Enter your name here" required>
+
+      <label for="email" id="email-label">Email</label>
+      <input type="email" id="email" placeholder="Enter your email here" required>
+
+      <label for="number" id="number-label">Number of companies you worked at:</label>
+      <input type="number" min="0" id="number" max="10" placeholder="Select a number" required>
+
+      <label for="experience">Experience</label>
+      <select id="dropdown" name="experience">
+        <option value="Select an option" selected>Select an option</option>
+        <option value="1 Year" id="dropdown">1 Year</option>
+        <option value="2 Years" id="dropdown">2 Year's</option>
+      </select>
+
+      <label for="role">Which role do you prefer?</label>
+      <div class="radio-check">
+        <input type="radio" id="fullstack" value="fullstack" name="role">
+        <span for="fullstack">Full Stack Developer</span>
+        <br>
+
+        <input type="radio" id="frontend" value="frontend" name="role">
+        <span for="frontend">Frontend Developer</span>
+        <br>
+
+        <input type="radio" id="backend" value="backend" name="role">
+        <span for="backend">Backend Developer</span>
+        <br>
+      </div>
+      <label for="role">Select the technologies you have worked with:</label>
+      <div class="radio-check">
+        <input type="checkbox" id="html" value="html">
+        <span for="html">HTML</span>
+
+        <input type="checkbox" id="css" value="css">
+        <span for="css">CSS</span>
+
+        <input type="checkbox" id="javascript" value="javascript">
+        <span for="javascript">JavaScript</span>
+
+        <input type="checkbox" id="react" value="react">
+        <span for="react">React</span>
+
+        <input type="checkbox" id="vue" value="vue">
+        <span for="vue">Vue</span>
+
+        <input type="checkbox" id="angular" value="angular">
+        <span for="angular">Angular</span>
+
+        <input type="checkbox" id="mongo" value="mongodb">
+        <span for="mongodb">MongoDB</span>
+
+        <input type="checkbox" id="mysql" value="mysql">
+        <span for="mysql">MySql</span>
+
+        <input type="checkbox" id="nodejs" value="nodejs">
+        <span for="nodejs">NodeJs</span>
+
+        <input type="checkbox" id="php" value="php">
+        <span for="php">PHP</span>
+      </div>
+
+      <label for="textarea">Give a brief explantion of your experience</label>
+      <textarea id="comments" cols="30" rows="10" placeholder="Enter input here" style="resize: none;"></textarea>
+
+      <button id="submit" type="submit">SUBMIT</button>
+    </form>
+  </div>
+</body>
+</html>
