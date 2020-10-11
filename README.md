@@ -7,7 +7,10 @@ I write about the things that I have worked on, in this log.
 ## Projects
 [CatApp Webpage](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-photo-app/)  
 [CatApp 2.0 with CSS](https://sashankr.github.io/100-Days-Of-Code-Challenge/html5_practice_projects/cat-app-2.0)  
-[Hans Zimmer Tribute Page](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Tribute-page/)
+
+## FreeCodeCamp Projects
+[Hans Zimmer Tribute Page](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Tribute-page/)  
+[Job Application Form](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Survey-Form/)
 
 ## Contents
 
