@@ -77,3 +77,8 @@ I need to complete 4 more projects to get the Responsive Web Design Certificate.
 Completed my second project by building a Form, 3 more projects to go.
 ![40% Completed of Responsive Design Projects](progress_images/40PercRespProj.png)
 ![Job Application Form](progress_images/Survey-Form.png)
+
+### R1D16
+Completed building a product landing page for a gym equipment sellet, 2 more projects to go.
+![40% Completed of Responsive Design Projects](progress_images/60percentVisualDesign.png)
+![Product Landing Page](progress_images/product_landing.png)
