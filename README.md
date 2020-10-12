@@ -10,7 +10,8 @@ I write about the things that I have worked on, in this log.
 
 ## FreeCodeCamp Projects
 [Hans Zimmer Tribute Page](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Tribute-page/)  
-[Job Application Form](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Survey-Form/)
+[Job Application Form](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Survey-Form/)  
+[Gym Equipment Company Landing Page](https://sashankr.github.io/100-Days-Of-Code-Challenge/Responsive-Web-Design-Projects/Product-Landing-Page/)  
 
 ## Contents
 
