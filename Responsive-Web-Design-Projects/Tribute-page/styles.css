@@ -51,10 +51,11 @@ p{
 }
 
 #img-div img{
-  max-width: 100%;
-  height: auto;
-  display: block;
-  text-align: center;
+    max-width: 30%;
+    height: auto;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
 }
 
 section#hans_zimmer_image{
