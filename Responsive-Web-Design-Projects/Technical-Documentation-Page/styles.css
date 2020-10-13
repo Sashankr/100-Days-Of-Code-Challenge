@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@700&display=swap');
+
+html, body{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main{
+  display: flex;
+  position: relative;
+  background-color: #BACDB0;
+}
+
+:root{
+  --heading-font : 'Raleway', sans-serif;
+  --para-font:'Open Sans', sans-serif;
+}
+
+h1{
+  font-family: var(--heading-font);
+}
+
+h2{
+  font-family: var(--heading-font);
+
+}
+
+h3{
+  font-family: var(--heading-font);
+  font-weight: 300;
+}
+
+p, ul li{
+  font-family: var(--para-font);
+  font-weight: 100;
+}
+
+nav#navbar{
+  position: sticky;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#navbar a{
+  text-decoration: none;
+  font-family: var(--para-font);
+  color: #F3E8EE;
+  padding: 10px 20px;
+  background-color: #2E2C2F;
+}
+#navbar p{
+  padding-bottom: 10px;
+}
+
+#navbar p:hover{
+  transform: scale(1.1);
+  transition: 0.4s ease;
+
+}
+
+#content{
+  padding: 20px;
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+  nav#navbar{
+    display: none;
+  }
+  main{
+    display: block;
+  }
+}
+
+@media(min-width: 481px) and (max-width : 826px){
+  #content {
+    padding: 10px;
+    width: 70%;
+    margin: 0 auto;
+    overflow-wrap: anywhere;
+}
+}
