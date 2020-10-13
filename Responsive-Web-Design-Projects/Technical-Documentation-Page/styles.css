@@ -17,6 +17,10 @@ main{
   --para-font:'Open Sans', sans-serif;
 }
 
+code{
+  background-color: #ffffff;
+}
+
 h1{
   font-family: var(--heading-font);
 }
