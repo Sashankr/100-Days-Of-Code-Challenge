@@ -1,0 +1,217 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Lato&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #212738;
+}
+
+header{
+  position: fixed;
+    top: 0;
+    background-color: #212738!important;
+    width: 100%;
+}
+
+:root{
+  --heading-font : 'Josefin Sans', sans-serif;
+  --para-font : 'Lato', sans-serif;
+  --heading-padding : 15px 0;
+  --section-padding : 30px 0;
+  --inner-section-padding : 10px 0;
+  --button-margin : 15px 10px 0 0;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h4{
+  font-size: 22px;
+}
+
+h3, h4{
+  color: #E4FDE1!important;
+}
+
+h1, h2, h3, h4{
+  font-family: var(--heading-font);
+  color: #F97068;
+  padding: var(--heading-padding);
+}
+
+p{
+  font-family: var(--para-font);
+  color: #F97068;
+}
+
+#FreeCodeCamp{
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--inner-section-padding);
+}
+
+#projects{
+  padding: var(--section-padding);
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.project-tile{
+width: 30%;
+  margin-right: 20px;
+}
+
+.project-tile img{
+  max-width: 100%;
+  height: auto;
+}
+
+#welcome-section{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #037171;
+}
+
+#welcome-section h1{
+  color: #E4FDE1;
+  font-size: 72px;
+  letter-spacing: 5px;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+nav{
+  padding: 20px 0;
+  /* position: fixed; */
+}
+
+nav ul 
+{
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: #F97068;
+  font-family: var(--heading-font);
+  margin-right: 25px;
+  font-size: 16px;
+}
+
+#contact{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #037171;
+  height: 40vh;
+}
+
+#contact a{
+  text-decoration: none;
+  color: #E4FDE1;
+  font-family: var(--para-font);
+  background-color: #212738;
+  padding: 10px 25px;
+}
+
+#contact a:hover{
+  background-color: #F97068;
+  color: #212738;
+  transition: 0.4s ease;
+}
+
+
+#contact h2{
+  color: #E4FDE1;
+  margin-bottom: 20px;
+}
+
+button:hover{
+  transform: scale(1.1);
+  transition: 0.4s ease;
+  cursor: pointer;
+}
+
+button{
+  background-color: #037171;
+  color: #E4FDE1;
+  padding: 10px 25px;
+  border: transparent;
+  margin: var(--button-margin);
+  font-family: var(--para-font);
+  outline: none;
+}
+
+button a{
+  text-decoration: none;
+  color: unset;
+}
+
+@media (min-width:320px) and (max-width : 768px){
+
+  .container{
+    width: 96%;
+  }
+
+  #welcome-section h1 {
+    color: #E4FDE1;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+
+.project-tile {
+  width: 60%;
+}
+
+#FreeCodeCamp {
+  display: flex;
+  flex-wrap: wrap;
+  padding: var(--inner-section-padding);
+  justify-content: center;
+}
+button{
+padding: 10px 15px; 
+margin-bottom: 30px;
+}
+
+h2, h3{
+  text-align: center;
+}
+
+#contact a {
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+#contact h2 {
+
+  font-size: 20px;
+}
+
+#welcome-section{
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+}
