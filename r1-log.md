@@ -82,3 +82,9 @@ Completed my second project by building a Form, 3 more projects to go.
 Completed building a product landing page for a gym equipment sellet, 2 more projects to go.
 ![40% Completed of Responsive Design Projects](progress_images/60percentVisualDesign.png)
 ![Product Landing Page](progress_images/product_landing.png)
+
+### R1D17
+Completed Responsive Web Design Certification, completed building a technical documentation page and a Personal Portfolio Website. Now I will be doing the basic of JavaScript from Learn Code Online.
+
+![Responsive Web Design Certification](progress_images/Responsive-Web-Design-Certificate.png)
+![Personal Portfolio](progress_images/PersonalPortfolio.png)
