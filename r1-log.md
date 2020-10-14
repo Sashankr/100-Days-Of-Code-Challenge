@@ -88,3 +88,6 @@ Completed Responsive Web Design Certification, completed building a technical do
 
 ![Responsive Web Design Certification](progress_images/Responsive-Web-Design-Certificate.png)
 ![Personal Portfolio](progress_images/PersonalPortfolio.png)
+
+### R1D18
+Started learning JavaScript on LearnCodeOnline, I learnt about v8 engine, how to run js code locally with node, and creating variables of string, boolean and number data types.
