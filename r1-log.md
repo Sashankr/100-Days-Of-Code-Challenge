@@ -91,3 +91,6 @@ Completed Responsive Web Design Certification, completed building a technical do
 
 ### R1D18
 Started learning JavaScript on LearnCodeOnline, I learnt about v8 engine, how to run js code locally with node, and creating variables of string, boolean and number data types.
+
+### R1D19,R1D20
+Worked on Bootstrap course on Coursera
