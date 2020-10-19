@@ -99,3 +99,11 @@ Worked on Bootstrap course on Coursera
 Worked on JavaScript basics: Operators, Interpolation, Ternary Operator, conditional statements, truthy and falsey values, equality and strict equality.
 
 ![Interpolation in JavaScript](progress_images/interpolation.png)
+
+### R1D23
+Completed Week 2 Assignment for Bootstrap Coursera course.
+![Completed Week 2](progress_images/Coursera-bootstrap/Week2.png)
+
+Worked on creating Functions in JavaScript, learnt about context in JavaScript, Global and Execution context
+![Context](progress_images/lco/context/context.png)
+![Scope Chaining](progress_images/lco/context/scope_chain.png)
