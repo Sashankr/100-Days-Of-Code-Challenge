@@ -107,3 +107,19 @@ Completed Week 2 Assignment for Bootstrap Coursera course.
 Worked on creating Functions in JavaScript, learnt about context in JavaScript, Global and Execution context
 ![Context](progress_images/lco/context/context.png)
 ![Scope Chaining](progress_images/lco/context/scope_chain.png)
+
+
+### R1D24
+Completed Week 3 Assignment from Bootstrap Coursera.
+![Completed Week 3](progress_images/Coursera-bootstrap/week3.png)
+
+### R1D25
+Worked on Javascript today, following topics :
+- Arrays
+- Objects and Methods
+- Arrow functions
+- Loops
+
+![Arrow Functions](progress_images/lco/arrays-and-objects/arrow_function.png)
+![Objects](progress_images/lco/arrays-and-objects/objects.png)
+
