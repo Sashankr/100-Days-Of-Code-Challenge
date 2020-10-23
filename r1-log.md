@@ -123,3 +123,8 @@ Worked on Javascript today, following topics :
 ![Arrow Functions](progress_images/lco/arrays-and-objects/arrow_function.png)
 ![Objects](progress_images/lco/arrays-and-objects/objects.png)
 
+### R1D26,27 
+
+Worked on Sass and Less, they are pre processors for css that help us with easy maintanance of the styles across the whole project.
+They help us in separating concerns, using partials and mixins.
+
