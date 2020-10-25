@@ -128,3 +128,7 @@ Worked on Javascript today, following topics :
 Worked on Sass and Less, they are pre processors for css that help us with easy maintanance of the styles across the whole project.
 They help us in separating concerns, using partials and mixins.
 
+### R1D28,29
+
+Completed Bootstrap week 4 assignment, I have been working on my internship screener assignment today.
+
